@@ -10,10 +10,11 @@ body {
 .container {
   max-width: 600px;
   margin: 30px auto 20px auto;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 20px 40px;
   border-radius: 10px;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  color: #090c02;
 }
 
 select {
